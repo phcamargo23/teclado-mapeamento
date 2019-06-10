@@ -1,0 +1,2 @@
+# Karabiner
+~/.config/karabiner
