@@ -77,7 +77,7 @@
         "command": "-workbench.action.previousEditor"
     },
     {
-        "key": "cmd+right",
+        "key": "alt+right",
         "command": "cursorWordEndRight",
         "when": "textInputFocus"
     },
@@ -87,7 +87,7 @@
         "when": "textInputFocus"
     },
     {
-        "key": "cmd+left",
+        "key": "alt+left",
         "command": "cursorWordStartLeft",
         "when": "textInputFocus"
     },
@@ -97,57 +97,61 @@
         "when": "textInputFocus"
     },
     {
-        "key": "shift+alt+right",
-        "command": "-cursorWordEndRightSelect",
-        "when": "textInputFocus"
+        "key": "ctrl+shift+down",
+        "command": "editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "shift+alt+left",
-        "command": "-cursorWordStartLeftSelect",
-        "when": "textInputFocus"
+        "key": "alt+down",
+        "command": "-editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+alt+left",
-        "command": "-cursorWordPartLeft",
-        "when": "textInputFocus"
+        "key": "ctrl+shift+up",
+        "command": "editor.action.moveLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+shift+alt+left",
-        "command": "-cursorWordPartLeftSelect",
-        "when": "textInputFocus"
+        "key": "alt+up",
+        "command": "-editor.action.moveLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+alt+right",
-        "command": "-cursorWordPartRight",
-        "when": "textInputFocus"
+        "key": "ctrl+shift+cmd+down",
+        "command": "editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+alt+right",
-        "command": "-cursorWordPartRightSelect",
-        "when": "textInputFocus"
+        "key": "alt+cmd+down",
+        "command": "-editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
     },
     {
-        "key": "shift+cmd+right",
-        "command": "cursorWordEndRightSelect"
+        "key": "ctrl+shift+cmd+up",
+        "command": "editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
     },
     {
-        "key": "shift+cmd+left",
-        "command": "cursorWordStartLeftSelect"
+        "key": "alt+cmd+up",
+        "command": "-editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+cmd+left",
-        "command": "cursorWordPartLeft"
-    },
-    {
-        "key": "ctrl+shift+cmd+left",
-        "command": "cursorWordPartLeftSelect"
-    },
-    {
-        "key": "ctrl+cmd+right",
-        "command": "cursorWordPartRight"
+        "key": "f19",
+        "command": "editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
     },
     {
         "key": "ctrl+shift+cmd+right",
-        "command": "cursorWordPartRightSelect"
+        "command": "-editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+z",
+        "command": "editor.action.toggleWordWrap"
+    },
+    {
+        "key": "alt+z",
+        "command": "-editor.action.toggleWordWrap"
     }
 ]
