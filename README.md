@@ -6,7 +6,7 @@
 
 # Configurações
 * git init
-* git remote add origin https://github.com/phcamargo23/mapeamento-de-teclas-e-atalhos.git
+* git remote add origin https://github.com/phcamargo23/teclado-mapeamento.git
 * git branch --set-upstream-to=origin/master master
 * git push
 <!--- git push --set-upstream origin master -->
