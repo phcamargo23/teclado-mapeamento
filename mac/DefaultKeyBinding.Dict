@@ -39,9 +39,13 @@ http://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Applicatio
 */
 
 
-// 1. Atalho: restaurar configurações padrão e desativar "Mission Control > Mover um space á esquerda/direita"
-// 2. Selecionar perfil Karabiner "CTRL-CMD, ALT+TAB"
-
+/* 
+    1. Atalho: restaurar configurações padrão
+    1.1 Mission Control: desativar tudo
+    1.1 Spotlight: OPT+SPC e desativar "busca do Finder"
+ 
+    2. Selecionar perfil Karabiner "CTRL-CMD, ALT+TAB"
+*/
 {
 
 // PALAVRA
