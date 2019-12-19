@@ -1,9 +1,9 @@
 # Diretórios
 ## KeyBindings
-~/Library/KeyBindings/DefaultKeyBinding.Dict
+~/Library/KeyBindings/DefaultKeyBinding.dict
 
 ## Karabiner
-~/.config/karabiner
+~/.config/karabiner/karabiner.json
 
 ## Visual Studio Code
-~/Library/Application Support/Code/User
+~/Library/Application Support/Code/User/keybindings.json
