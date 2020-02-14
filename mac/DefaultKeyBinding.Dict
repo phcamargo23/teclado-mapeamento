@@ -38,14 +38,6 @@ https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Applicati
 http://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSWindow_Class/Reference/Reference.html
 */
 
-
-/* 
-    1. Atalho: restaurar configurações padrão
-    1.1 Mission Control: desativar tudo
-    1.1 Spotlight: OPT+SPC e desativar "busca do Finder"
- 
-    2. Selecionar perfil Karabiner "CTRL-CMD, ALT+TAB"
-*/
 {
 
 // PALAVRA

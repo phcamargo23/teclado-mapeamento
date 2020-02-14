@@ -1,9 +1,0 @@
-[
-	{ "keys": ["alt+shift+up"], "command": "swap_line_up" },
-	{ "keys": ["alt+shift+down"], "command": "swap_line_down" },
-	{ "keys": ["ctrl+alt+left"], "command": "move", "args": {"by": "subwords", "forward": false} },
-	{ "keys": ["ctrl+alt+right"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
-	{ "keys": ["ctrl+alt+shift+left"], "command": "move", "args": {"by": "subwords", "forward": false, "extend": true} },
-	{ "keys": ["ctrl+alt+shift+right"], "command": "move", "args": {"by": "subword_ends", "forward": true, "extend": true} },
-	{ "keys": ["ctrl+shift+delete"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },	
-]
