@@ -39,7 +39,7 @@
 1. Selecionar perfil Karabiner "Básico"
 
 # Inconsistências
-Teclado "Brasil Note": sem teclado numérico
-Teclado "Brasil PC": não tem barra vertical
-"Mover um space à direita/esquerda" (CTRL+WIN+Right/Left)
-https://github.com/lailsonbm/ABNT2-Layout
+_ Teclado "Brasil Note": sem teclado numérico
+_ Teclado "Brasil PC": não tem barra vertical
+_ "Mover um space à direita/esquerda" (CTRL+WIN+Right/Left)
+_ https://github.com/lailsonbm/ABNT2-Layout
