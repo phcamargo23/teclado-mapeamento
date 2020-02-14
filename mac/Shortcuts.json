@@ -4,7 +4,7 @@
     "shortcut_name" : "RedoLastMove"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+keypadminus",
     "shortcut_name" : "MakeSmaller"
   },
   {
@@ -12,7 +12,7 @@
     "shortcut_name" : "MoveToPreviousThird"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+keypad9",
     "shortcut_name" : "MoveToUpperRight"
   },
   {
@@ -28,11 +28,11 @@
     "shortcut_name" : "MoveToTopHalf"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+keypad1",
     "shortcut_name" : "MoveToLowerLeft"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+keypadplus",
     "shortcut_name" : "MakeLarger"
   },
   {
@@ -64,11 +64,11 @@
     "shortcut_name" : "MoveToRightHalf"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+keypad3",
     "shortcut_name" : "MoveToLowerRight"
   },
   {
-    "shortcut_key_binding" : null,
+    "shortcut_key_binding" : "alt+keypad7",
     "shortcut_name" : "MoveToUpperLeft"
   }
 ]
