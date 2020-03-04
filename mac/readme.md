@@ -11,8 +11,14 @@
 ## Visual Studio Code
 ~/Library/Application\ Support/Code/User/keybindings.json
 
+## Sublime Text
+~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Default\ \(OSX\).sublime-keymap
+
+## SQL Developer
+~/.sqldeveloper/system19.2.1.247.2212/o.ide.13.0.0.1.42.190403.1502/settings.xml (arquivo inteiro de configuração)
+
 # Configuração
-1. As teclas representam o teclado padrão ISO do Mac
+1. As teclas presentes neste tutorial representam o teclado padrão ISO do Mac
 1. Adicionar teclado ABNT2
 	1. Teclado "Brasil Note" (https://sourceforge.net/projects/layoutabnt2/files/latest/download)
 		1. OPT+W = "?"
