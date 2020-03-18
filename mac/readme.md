@@ -1,5 +1,5 @@
 # Diretórios
-## KeyBindings
+## Mac API
 ~/Library/KeyBindings/DefaultKeyBinding.dict
 
 ## Karabiner
@@ -19,7 +19,7 @@
 		1. OPT+Q = "/"
 		1. OPT+Z = "\"
 		1. OPT+X = "|"
-1. Keybindings.dict
+1. Configurar Mac API
 1. Configurações de Teclado
 	1. Teclado: marcar
 		1. "Mostrar visualizadores de teclado..."
