@@ -1,17 +1,8 @@
 # Diretórios
-### Karabiner
-~/.config/karabiner
-### Visual Studio Code
-~/Library/Application Support/Code/User
+## Visual Studio Code
+C:\Users\Pedro Henrique\AppData\Roaming\Code\User\keybindings.json
 
-# Configurar
-* git init
-* git remote add origin https://github.com/phcamargo23/teclado-mapeamento.git
-* git fetch origin
-* git checkout master
-* git branch --set-upstream-to=origin/master master
+## Sublime Text 3
+C:\Users\Pedro Henrique\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap
 
-# Atualizar
-
-* git push
-<!--- git push --set-upstream origin master -->
+# Configuração

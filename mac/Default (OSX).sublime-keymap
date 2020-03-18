@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+shift+up"], "command": "swap_line_up" },
+	{ "keys": ["ctrl+shift+down"], "command": "swap_line_down" },
+
+	{ "keys": ["super+backspace"], "command": "delete_word", "args": { "forward": false, "sub_words": true } },
+	{ "keys": ["super+delete"], "command": "delete_word", "args": { "forward": true, "sub_words": true } },
+]
