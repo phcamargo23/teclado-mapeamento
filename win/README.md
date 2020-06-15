@@ -19,3 +19,5 @@ C:\Users\Pedro Henrique\AppData\Roaming\JetBrains\PyCharm2020.1\jba_config\win.k
 
 ### PhpStorm
 C:\Users\Pedro Henrique\AppData\Roaming\JetBrains\PhpStorm2020.1\keymaps\Windows copy.xml
+
+### DataGrip
