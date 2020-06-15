@@ -1,0 +1,224 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt subtract" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ChangeKeymap">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="ConvertJavaToKotlin" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Debug" />
+  <action id="Debugger.RemoveAllBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt subtract" />
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GoToLastTab">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
+  <action id="GoToTab1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="GoToTab2">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="GoToTab3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="GoToTab4">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="GoToTab5">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="GotoBookmark6">
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="GotoBookmark7">
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="GotoBookmark8">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="GotoBookmark9">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="Replace" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="ToggleBookmark1">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+  <action id="ToggleBookmark3">
+    <keyboard-shortcut first-keystroke="shift ctrl 3" />
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
+  <action id="ToggleBookmark4">
+    <keyboard-shortcut first-keystroke="shift ctrl 4" />
+    <keyboard-shortcut first-keystroke="shift alt 4" />
+  </action>
+  <action id="ToggleBookmark5">
+    <keyboard-shortcut first-keystroke="shift ctrl 5" />
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+  </action>
+  <action id="ToggleBookmark6">
+    <keyboard-shortcut first-keystroke="shift ctrl 6" />
+    <keyboard-shortcut first-keystroke="shift alt dead_diaeresis" />
+  </action>
+  <action id="ToggleBookmark7">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
+  <action id="ToggleBookmark8">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+  </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
+  </action>
+</keymap>
