@@ -12,7 +12,8 @@ C:\Users\Pedro Henrique\AppData\Roaming\SQL Developer\system18.4.0.376.1900\o.id
 > Instalados com Toolbox
 
 ### IntelliJ
-C:\Users\Pedro Henrique\AppData\Roaming\JetBrains\IntelliJIdea2020.1\keymaps\Windows copy.xml
+C:\Users\Pedro Henrique\.IntelliJIdea2019.3\config\keymaps\Windows copy.xml
+<!-- C:\Users\Pedro Henrique\AppData\Roaming\JetBrains\IntelliJIdea2020.1\keymaps\Windows copy.xml -->
 
 ### PyCharm
 C:\Users\Pedro Henrique\AppData\Roaming\JetBrains\PyCharm2020.1\jba_config\win.keymaps\Windows copy.xml
