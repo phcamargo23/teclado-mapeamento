@@ -746,5 +746,5 @@
     {
         "key": "ctrl+9",
         "command": "workbench.action.lastEditorInGroup"
-    },
- 
+    }
+]
