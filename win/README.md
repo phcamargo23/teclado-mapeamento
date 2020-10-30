@@ -22,3 +22,6 @@ file:///C:/Users/PC/AppData/Roaming/JetBrains/IntelliJIdea2020.2/jba_config/win.
 %HOMEPATH%\AppData\Roaming\JetBrains\PhpStorm2020.1\keymaps\Windows copy.xml
 
 ### DataGrip
+
+### WebStorm
+"C:\Users\PC\AppData\Roaming\JetBrains\WebStorm2020.2\jba_config\win.keymaps\Windows copy.xml"
