@@ -17,6 +17,26 @@
 ## SQL Developer
 ~/.sqldeveloper/system19.2.1.247.2212/o.ide.13.0.0.1.42.190403.1502/settings.xml (arquivo inteiro de configuração)
 
+## Jetbrains
+> Instalados com Toolbox
+
+### IntelliJ
+/Users/039935982712/Library/Application Support/JetBrains/IntelliJIdea2020.2/jba_config/mac.keymaps/macOS copy.xml
+
+* trocar ctrl por meta
+* alt por ctrl
+
+### PyCharm
+%HOMEPATH%\AppData\Roaming\JetBrains\PyCharm2020.2\jba_config\win.keymaps\Windows copy.xml
+
+### PhpStorm
+%HOMEPATH%\AppData\Roaming\JetBrains\PhpStorm2020.1\keymaps\Windows copy.xml
+
+### DataGrip
+
+### WebStorm
+"C:\Users\PC\AppData\Roaming\JetBrains\WebStorm2020.2\jba_config\win.keymaps\Windows copy.xml"
+
 # Configuração
 1. As teclas presentes neste tutorial representam o teclado padrão ISO do Mac
 1. Adicionar teclado ABNT2

@@ -192,6 +192,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -222,6 +223,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -441,6 +443,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -475,6 +478,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -507,6 +511,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -539,6 +544,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -572,6 +578,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com\\.apple\\.Terminal$",
                                             "^com.google.Chrome$",
                                             "^net.java.openjdk.cmd$",
@@ -604,6 +611,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -638,6 +646,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -670,6 +679,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -702,6 +712,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^net.java.openjdk.cmd$",
                                             "^com.microsoft.VSCode$",
                                             "^com.microsoft.VSCode$"
@@ -735,6 +746,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com\\.apple\\.Terminal$",
                                             "^com.google.Chrome$",
                                             "^net.java.openjdk.cmd$",
@@ -772,6 +784,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com.google.Chrome$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -791,6 +804,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com.apple.finder"
                                         ],
                                         "type": "frontmost_application_if"
@@ -1298,6 +1312,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com.microsoft.VSCode$",
                                             "^com.sublimetext.3$"
                                         ],
@@ -1329,6 +1344,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com.microsoft.VSCode$",
                                             "^com.sublimetext.3$"
                                         ],
@@ -1345,6 +1361,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com.apple.finder$"
                                         ],
                                         "type": "frontmost_application_if"
@@ -1369,6 +1386,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "com.jetbrains.intellij",
                                             "^com.apple.finder$"
                                         ],
                                         "type": "frontmost_application_if"
