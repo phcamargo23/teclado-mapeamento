@@ -88,7 +88,6 @@ csa+:
 a+: navegar mudança / next change
 sa+: navegar erro
 
-
 ## Delete
 c+delete: --- apagar até o final da palavra
 ca+delete: --- gerenciador de tarefas
@@ -195,6 +194,16 @@ c+/: comentar linha
 s+/: hide all windows
 	sa+/:
 a+/: reverse lines
+
+## \
+c+/: comentar linha
+	cs+/: comentar bloco
+	ca+/:
+	csa+/:
+s+/: --- 
+	sa+/:
+a+/:
+
 
 ## ;
 : ---

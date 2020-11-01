@@ -13,4 +13,11 @@
 	{ "keys": ["shift+enter"], "command": "duplicate_line" },
 	{ "keys": ["ctrl+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
 	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_file" },
+	{ "keys": ["ctrl+l"], "command": "find_all_under" },
+	{ "keys": ["ctrl+alt+shift+up"], "command": "expand_selection", "args": {"to": "scope"} },
+	{ "keys": ["ctrl+alt+shift+down"], "command": "soft_undo" },
+	{ "keys": ["alt+left"], "command": "jump_back" },
+	{ "keys": ["alt+right"], "command": "jump_forward" },	
+	{ "keys": ["ctrl+keypad_divide"], "command": "toggle_comment" },
+	{ "keys": ["alt+z"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
 ]
