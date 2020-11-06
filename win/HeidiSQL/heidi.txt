@@ -1,0 +1,177 @@
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+MainWinLeft<|||>3<|||>168
+MainWinTop<|||>3<|||>62
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,171
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+DateTimeEditor_CursorPos_Type4<|||>3<|||>9
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>389,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>195,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>258
+MainWinMaximized<|||>3<|||>1
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>2
+ExportSQL_Filenames<|||>1<|||>C:\Users\PH\Downloads\bk1.sql<{{{><}}}>
+dbtreewidth<|||>3<|||>257
+SQL Attr Comment Foreground<|||>3<|||>8023636
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>12108397
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr ConsoleOutput Foreground<|||>3<|||>536870911
+SQL Attr ConsoleOutput Background<|||>3<|||>536870911
+SQL Attr ConsoleOutput Style<|||>3<|||>5
+SQL Attr DataType Foreground<|||>3<|||>15372999
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>16757122
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>14929603
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>16757122
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Key Foreground<|||>3<|||>14929603
+SQL Attr Key Background<|||>3<|||>536870911
+SQL Attr Key Style<|||>3<|||>1
+SQL Attr Number Foreground<|||>3<|||>7361535
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>8906947
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>12897152
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>6911735
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>7064575
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+FieldEditor_Set<|||>3<|||>1
+Shortcut1_actExecuteQuery<|||>3<|||>116
+Shortcut1_actExecuteSelection<|||>3<|||>123
+Shortcut1_actExecuteCurrentQuery<|||>3<|||>16397
+Shortcut1_actReformatSQL<|||>3<|||>41030
+Shortcut1_actToggleComment<|||>3<|||>16575
+ThemePreviewWidth<|||>3<|||>718
+ThemePreviewHeight<|||>3<|||>555
+ThemePreviewTop<|||>3<|||>226
+ThemePreviewLeft<|||>3<|||>238
+Theme<|||>1<|||>Windows10 Dark
+FieldColor_Numeric<|||>3<|||>16750469
+FieldColor_Real<|||>3<|||>13663613
+FieldColor_Text<|||>3<|||>7591283
+FieldColor_Binary<|||>3<|||>13203071
+FieldColor_Datetime<|||>3<|||>7566281
+FieldColor_Spatial<|||>3<|||>13553267
+FieldColor_Other<|||>3<|||>7586241
+PromptSaveFileOnTabClose<|||>3<|||>0
+SQLFile0<|||>1<|||>C:\Users\PH\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-11-05_11-14-48-364.sql
+SQLFile1<|||>1<|||>C:\Users\PH\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-11-04_18-03-52-531.sql
+SQLFile2<|||>1<|||>C:\Users\PH\Google Drive\Trabalhos\App Financeiro\SQL\financeiro.sql
+SQLFile3<|||>1<|||>C:\Users\PH\Google Drive\Trabalhos\App Financeiro\app-financeiro.md
+SQLFile4<|||>1<|||>C:\Users\PH\Google Drive\heidi.sql
+AutoReconnect<|||>3<|||>1
+Servers\Unnamed\SessionCreated<|||>1<|||>2020-11-04 18:03:19
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>7
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>5
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.4.14-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>9
+Servers\Unnamed\ServerVersion<|||>3<|||>100414
+Servers\Unnamed\LastConnect<|||>1<|||>2020-11-06 10:04:26
+Servers\Unnamed\lastUsedDB<|||>1<|||>finan
+Servers\Unnamed\finan|categoria\Sort<|||>1<|||>0_pai|
+Servers\Unnamed\finan|extrato\Sort<|||>1<|||>0_data|
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2020-11-04 18:56:03|finan|16|INSERT INTO `finan`.`extrato` (`data`, `descricao`, `preco`) VALUES ('2020-11-03', 'posto primavera', '-67.05');<{{{><}}}>INSERT INTO `finan`.`extrato` (`data`, `descricao`, `preco`) VALUES ('2020-11-03', 'café', '-9');<{{{><}}}>INSERT INTO `finan`.`extrato` (`data`, `descricao`, `preco`) VALUES ('2020-11-03', 'água', '-3');<{{{><}}}>INSERT INTO `finan`.`extrato` (`data`, `descricao`, `preco`) VALUES ('2020-11-03', 'hotel vitória - novo acordo', '-64');<{{{><}}}>INSERT INTO `finan`.`extrato` (`data`, `descricao`, `preco`) VALUES ('2020-11-03', 'almoço - novo acordo', '-21');
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2020-11-05 11:17:24|finan|0|-- ENTRADAS/SAÍDAS<{{{><}}}>SELECT preco, e.descricao, CASE WHEN preco > 0 THEN 'Entrada' WHEN preco < 0 THEN 'Saída' END operacao, c.descricao AS grupo<{{{><}}}>FROM extrato e<{{{><}}}>    LEFT JOIN categoria c on c.id = e.categoria
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2020-11-06 12:24:36|finan|0|INSERT INTO `finan`.`extrato` (`data`, `descricao`, `preco`) VALUES ('2020-11-05', 'rewards', '43.97');
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2020-11-06 10:07:15|finan|0|-- CATEGORIAS<{{{><}}}>with<{{{><}}}>    recursive arvore as (<{{{><}}}>        SELECT *, 0 as level from categoria where pai is null<{{{><}}}>        union all<{{{><}}}>        select categoria.*, level + 1 as level from categoria join arvore on arvore.id = categoria.pai<{{{><}}}>    )<{{{><}}}><{{{><}}}>select * from arvore order by level

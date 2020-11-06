@@ -1,12 +1,22 @@
 # Diretórios
+## Sublime Text 3
+### Configurações
+%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap
+
+### Atalhos
+%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings
+
 ## Visual Studio Code
 %HOMEPATH%\AppData\Roaming\Code\User\keybindings.json
 
-## Sublime Text 3
-%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap
-
 ## SQL Developer
-%HOMEPATH%\AppData\Roaming\SQL Developer\system18.4.0.376.1900\o.ide.13.0.0.1.42.170225.201\settings.xml
+> Cada versão é de um jeito
+%HOMEPATH%\AppData\Roaming\SQL Developer
+[\system18.4.0.376.1900\o.ide.13.0.0.1.42.170225.201\]settings.xml
+
+## HeidiSQL
+> Não achei um arquivo de configuração
+Arquivo > Exportar/Importar
 
 ## Jetbrains
 > Instalados com Toolbox
