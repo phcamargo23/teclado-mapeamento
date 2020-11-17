@@ -4,8 +4,12 @@
 .gitignore, Applications\sublime_text.exe
 .htaccess, Applications\sublime_text.exe
 .xml, Applications\sublime_text.exe
+.json, Applications\sublime_text.exe
+.dict, Applications\sublime_text.exe
 .env, Applications\sublime_text.exe
 .sql, Applications\sublime_text.exe
 .py, Applications\sublime_text.exe
 .java, Applications\sublime_text.exe
 .php, Applications\sublime_text.exe
+.sublime-keymap, Applications\sublime_text.exe
+.sublime-settings, Applications\sublime_text.exe
