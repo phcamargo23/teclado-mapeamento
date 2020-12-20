@@ -154,7 +154,7 @@
         "command": "deleteWordPartRight"
     },
     {
-        "key": "ctrl+o",
+        "key": "ctrl+p",
         "command": "workbench.action.quickOpen"
     },
     {
@@ -746,5 +746,9 @@
     {
         "key": "ctrl+9",
         "command": "workbench.action.lastEditorInGroup"
+    },
+    {
+        "key": "shift+backspace",
+        "command": "editor.action.joinLines"
     }
 ]

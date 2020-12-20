@@ -1,5 +1,4 @@
 # Comandos
-~~unwrap/remove~~ //seleção inteligente já resolve
 ~~next method~~~ // outline já resolve
 
 navegar ocorrência / highlighted elemente usage
@@ -90,20 +89,22 @@ sa+: navegar erro
 
 ## Delete
 c+delete: --- apagar até o final da palavra
+s+delete: apagar linha // as vezes o "delay" do shift atrapalha
 ca+delete: --- gerenciador de tarefas
-	cs+delete: juntar linhas // Pq nao cs? Não é algo maior, é uma alternativa
+	cs+delete: unwrap/remove //apagar apenas a estrutura
 	csa+delete: //apagar em camelcase // o padrão era CA, mas o windwos usa pra gerenciador de tarefas
-s+delete: apagar linha
+
 a+delete: navegar mudança / previus change
 	as+delete: navegar erro
 
 ## Backspace
-: --- apagar
 c+: -- apagar palavra
-	cs+:
-	ca+: -- apagar por camelcase
-	csa+:
-s+:
+s+: juntar linhas
+
+cs+:
+ca+: 
+csa+: -- apagar por camelcase //acompanhar padrão do del
+
 a+: navegar últimas edições
 	sa+: navegar últimas edições
 
@@ -135,7 +136,13 @@ s+: alterna apenas editor
 	sa+: --- alterna janelas
 a+: --- alterna janelas
 
-## F3
+## FX
+### F1
+-- ajuda
+
+### F2
+-- renomear
+### F3
 : --- ocorrência de busca, próxima
 s+: --- ocorrência de busca, anterior
 c+: ocorrência de busca palavra no cursor, próxima
@@ -146,7 +153,7 @@ csa+:
 sa+:
 a+:
 
-## F5
+### F5
 : debugar
 c+: executar
 	cs+: reiniciar debug/execuçao
@@ -156,7 +163,7 @@ s+: parar debug/execuçao
 	sa+: run to cursor (mouse: AS + rolar pra baixo)
 a+: show execution point (mouse: A + rolar pra cima)
 
-## F9
+### F9
 : adicionar breakpoint
 c+: breakpoint temporário
 	cs+: mute breakpoints / desativar todos
@@ -166,7 +173,7 @@ s+: toggle enable breakpoint
 	sa+:
 a+: ver breakpoints
 
-## F10
+### F10
 : step over (mouse: A + rolar pra baixo)
 
 c+:
