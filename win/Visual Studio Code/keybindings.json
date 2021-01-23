@@ -750,5 +750,15 @@
     {
         "key": "shift+backspace",
         "command": "editor.action.joinLines"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "editor.action.selectHighlights",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "-editor.action.selectHighlights",
+        "when": "editorFocus"
     }
 ]

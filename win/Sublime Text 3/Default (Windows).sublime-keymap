@@ -19,5 +19,6 @@
 	{ "keys": ["alt+left"], "command": "jump_back" },
 	{ "keys": ["alt+right"], "command": "jump_forward" },	
 	{ "keys": ["ctrl+keypad_divide"], "command": "toggle_comment" },
-	{ "keys": ["alt+z"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
+	{ "keys": ["alt+z"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+	{ "keys": ["ctrl+shift+d"], "command": "find_all_under" },
 ]

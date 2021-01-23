@@ -6,6 +6,11 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\
 %HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
 %HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings
 
+### Extensões removidas
+"Log Highlight",
+"Log4jView",
+"LogView",
+
 ## Atalhos
 %HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap
 
