@@ -1,6 +1,8 @@
 # Comandos
 ~~next method~~~ // outline já resolve
 
+atalhos: copiar referencia de algo
+
 navegar ocorrência / highlighted elemente usage
 navegar move caret to block
 navegar move caret matching brace
@@ -29,6 +31,8 @@ insert live template
 
 intellj limpar ctr+z
 undo cursor
+
+dttagrip expand column list
 
 ## Modelo
 :
@@ -223,8 +227,14 @@ s+:
 a+:
 
 ## D
-próxima ocorrência
-selecionar todas ocorrências
+: ---
+c+: próxima ocorrência
+	cs+: selecionar todas ocorrências
+	ca+:
+	csa+:
+s+:
+	sa+:
+a+:
 
 ## K
 : ---
@@ -304,6 +314,16 @@ a f9 - ver breakpoints
 restaurar breakpoint
 alternar breakpoint de método
 remover todos os breakpoints do arquivo
+
+## W
+: ---
+c+: --- fechar aba
+	cs+: reabrir
+	ca+: --- sai o caractere "?"
+	csa+:
+s+: fechar todos
+	sa+:
+a+: fechar outros
 
 
 # IntelliJ
