@@ -5,6 +5,7 @@
 .htaccess, Applications\sublime_text.exe
 .ini, Applications\sublime_text.exe
 .java, Applications\sublime_text.exe
+.js, Applications\sublime_text.exe
 .json, Applications\sublime_text.exe
 .md, Applications\sublime_text.exe
 .php, Applications\sublime_text.exe
@@ -14,5 +15,13 @@
 .sublime-settings, Applications\sublime_text.exe
 .txt, Applications\sublime_text.exe
 .xml, Applications\sublime_text.exe
+
+.ps1, Applications\powershell.exe
+
 .tgz, Applications\7zFM.exe
 .tar, Applications\7zFM.exe
+
+.mp4, VLC.mp4
+
+.htm, FirefoxHTML-CA9422711AE1A81C
+.html, FirefoxHTML-CA9422711AE1A81C

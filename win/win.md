@@ -2,6 +2,10 @@
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\
 
 # Sublime Text 3
+cp "Sublime Text 3\Default (Windows).sublime-keymap" "%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap"
+cp "Sublime Text 3\Preferences.sublime-settings" "%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings"
+cp "Sublime Text 3\Package Control.sublime-settings" "%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings"
+
 ## Configurações
 %HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
 %HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings
@@ -45,6 +49,7 @@ file:///C:/Users/PC/AppData/Roaming/JetBrains/IntelliJIdea2020.2/jba_config/win.
 ## DataGrip
 
 ## WebStorm
+%HOMEPATH%\AppData\Roaming\JetBrains\
 "C:\Users\PC\AppData\Roaming\JetBrains\WebStorm2020.2\jba_config\win.keymaps\Windows copy.xml"
 
 # Word

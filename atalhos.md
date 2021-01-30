@@ -1,4 +1,6 @@
 # Comandos
+
+copiar caminho
 ~~next method~~~ // outline já resolve
 
 atalhos: copiar referencia de algo
@@ -315,16 +317,22 @@ restaurar breakpoint
 alternar breakpoint de método
 remover todos os breakpoints do arquivo
 
-## W
-: ---
-c+: --- fechar aba
-	cs+: reabrir
+## T e W
+c+w: --- fechar aba
+	cs+: fechar janela
 	ca+: --- sai o caractere "?"
 	csa+:
 s+: fechar todos
 	sa+:
 a+: fechar outros
 
+c+t: --- nova aba
+	cs+: reabrir aba
+	ca+: --- sai o caractere "?"
+	csa+:
+s+: fechar todos
+	sa+:
+a+: fechar outros
 
 # IntelliJ
 https://shortcutworld.com/IntelliJ-IDEA/win/IntelliJ_Shortcuts
