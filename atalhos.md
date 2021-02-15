@@ -228,6 +228,15 @@ s+:
 	sa+:
 a+:
 
+## A
+c+: próxima ocorrência
+cs+: selecionar todas ocorrências
+ca+:
+
+sa+: abrir no explorador de arquivos do sistema
+csa+: mostrar no explorador de arquivos do projeto
+
+
 ## D
 : ---
 c+: próxima ocorrência
@@ -237,6 +246,17 @@ c+: próxima ocorrência
 s+:
 	sa+:
 a+:
+
+## E
+: ---
+c+: próxima ocorrência
+	cs+: selecionar todas ocorrências
+	ca+:
+	csa+:
+s+: --
+	sa+:
+a+: ---
+
 
 ## K
 : ---

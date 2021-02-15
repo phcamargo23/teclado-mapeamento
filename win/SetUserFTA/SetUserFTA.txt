@@ -1,4 +1,5 @@
 .config, Applications\sublime_text.exe
+.css, Applications\sublime_text.exe
 .dict, Applications\sublime_text.exe
 .env, Applications\sublime_text.exe
 .gitignore, Applications\sublime_text.exe
@@ -9,7 +10,9 @@
 .json, Applications\sublime_text.exe
 .md, Applications\sublime_text.exe
 .php, Applications\sublime_text.exe
+.properties, Applications\sublime_text.exe
 .py, Applications\sublime_text.exe
+.sass, Applications\sublime_text.exe
 .sql, Applications\sublime_text.exe
 .sublime-keymap, Applications\sublime_text.exe
 .sublime-settings, Applications\sublime_text.exe
