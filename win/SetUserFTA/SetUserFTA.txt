@@ -8,6 +8,7 @@
 .java, Applications\sublime_text.exe
 .js, Applications\sublime_text.exe
 .json, Applications\sublime_text.exe
+.log, Applications\sublime_text.exe
 .md, Applications\sublime_text.exe
 .php, Applications\sublime_text.exe
 .properties, Applications\sublime_text.exe

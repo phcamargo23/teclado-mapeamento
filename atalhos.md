@@ -1,3 +1,64 @@
+comandos iguais com nomes diferentes em cada IDE
+	* aplicar técnica de DM
+	* equiparar um a um
+	registrar comando e atalho facilmente
+melhor mapeamento para memorizar o maior número possível de teclas
+	* excel resolve
+
+move statement up/down
+move caret...
+next highlighter error
+
+cyclic expand word
+
+
+intelij
+	mover abas 
+	show execution point
+		ir para onde o debug tá 
+
+	o que sao frames no debug
+	reload changed classes
+	update application
+
+	Smart step into 
+
+	https://confluence.jetbrains.com/display/IntelliJIDEA/14.+Depurador
+
+
+
+processo
+	escolher um keymap de referência e não ficar pensando na melhor tecla
+		sublime text 3 https://shortcutworld.com/Sublime-Text/win/Sublime-Text_Shortcuts
+	usar keymap padrão da ferramenta
+	salvar referências de atalhos da ferramenta
+	atribuir atalhos básicos navegação
+	sentiu falta de um atalho? olhe na tabela a atribua
+
+tentar atribuir tecla somente nos que já usa
+
+alt: navegação
+shif: reversão/sentido mais amplo
+
+
+	cas
+
+
+C,	conf
+Sesc mostrar apenas editor
+quick documentation
+
+
+f9 alternar breakpoint de linha
+s f9 f9 alternar breakpoint de linha
+c f9 alternar ignorar breakpoints
+cs remover todos breakpoints
+a f9 - ver breakpoints
+
+restaurar breakpoint
+alternar breakpoint de método
+remover todos os breakpoints do arquivo
+
 # Comandos
 
 copiar caminho
@@ -257,6 +318,15 @@ s+: --
 	sa+:
 a+: ---
 
+## I
+: ---
+c+: organizar imports
+	cs+: 
+	ca+:
+	csa+:
+s+: --
+	sa+:
+a+: ---
 
 ## K
 : ---
@@ -275,67 +345,15 @@ s+:
 a+: ir para correspondência
 
 
-## Outros
-comandos iguais com nomes diferentes em cada IDE
-	* aplicar técnica de DM
-	* equiparar um a um
-	registrar comando e atalho facilmente
-melhor mapeamento para memorizar o maior número possível de teclas
-	* excel resolve
-
-move statement up/down
-move caret...
-next highlighter error
-
-cyclic expand word
-
-
-intelij
-	mover abas 
-	show execution point
-		ir para onde o debug tá 
-
-	o que sao frames no debug
-	reload changed classes
-	update application
-
-	Smart step into 
-
-	https://confluence.jetbrains.com/display/IntelliJIDEA/14.+Depurador
-
-
-
-processo
-	escolher um keymap de referência e não ficar pensando na melhor tecla
-		sublime text 3 https://shortcutworld.com/Sublime-Text/win/Sublime-Text_Shortcuts
-	usar keymap padrão da ferramenta
-	salvar referências de atalhos da ferramenta
-	atribuir atalhos básicos navegação
-	sentiu falta de um atalho? olhe na tabela a atribua
-
-tentar atribuir tecla somente nos que já usa
-
-alt: navegação
-shif: reversão/sentido mais amplo
-
-
-	cas
-
-
-C,	conf
-Sesc mostrar apenas editor
-quick documentation
-
-
-f9 alternar breakpoint de linha
-s f9 f9 alternar breakpoint de linha
-c f9 alternar ignorar breakpoints
-cs remover todos breakpoints
-a f9 - ver breakpoints
-
-restaurar breakpoint
-alternar breakpoint de método
-remover todos os breakpoints do arquivo
+## O
+: ---
+c+: 
+	cs+: 
+	ca+:
+	csa+:
+s+: --
+	sa+:
+a+: ---
 
 ## T e W
 c+w: --- fechar aba
@@ -360,6 +378,7 @@ https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA
 https://www.jetbrains.com/help/rider/Reference_Keymap_Rider.html
 https://www.shortcutfoo.com/app/dojos/intellij-idea-win/cheatsheet
 https://www.jetbrains.com/help/rider/Keymaps_Comparison_Windows.html
+
 ## Navigation
 Go to class Ctrl + N
 Go to file Ctrl + Shift + N
