@@ -27,6 +27,12 @@
 ;#F10::Send {Volume_Up} ; shift + numpad plus
 ;#F11::Send {Volume_Mute} ; Break key mutes
 
+
+;=========================================================;
+;   MINIMIZIES ACTIVE WINDOW (instead of "Restore Down" for Win+Down)
+;=========================================================;
+#+Down::WinMinimize, A ; win+shift+down
+
 ; ------------------ NOVO ARQUIVO DE TEXTO ------------------
 #IfWinActive, ahk_class CabinetWClass
 #n:: ;explorer - create new text file and open it with Notepad2
