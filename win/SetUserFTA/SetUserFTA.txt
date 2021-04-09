@@ -1,4 +1,5 @@
 .config, Applications\sublime_text.exe
+.conf, Applications\sublime_text.exe
 .css, Applications\sublime_text.exe
 .dict, Applications\sublime_text.exe
 .env, Applications\sublime_text.exe
@@ -24,6 +25,7 @@
 
 .tgz, Applications\7zFM.exe
 .tar, Applications\7zFM.exe
+.war, Applications\7zFM.exe
 
 .mp4, VLC.mp4
 

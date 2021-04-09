@@ -294,8 +294,8 @@ c+: próxima ocorrência
 cs+: selecionar todas ocorrências
 ca+:
 
-sa+: abrir no explorador de arquivos do sistema
-csa+: mostrar no explorador de arquivos do projeto
+sa+:
+csa+:
 
 
 ## D
@@ -316,7 +316,7 @@ c+: próxima ocorrência
 	csa+:
 s+: --
 	sa+:
-a+: ---
+a+: abrir no explorador de arquivos do sistema
 
 ## I
 : ---
