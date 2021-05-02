@@ -1,13 +1,3 @@
-; !   Alt
-; ^   Ctrl
-; +   Shift
-; #   Winkey
-; https://www.autohotkey.com/docs/KeyList.htm
-
-; a::b ; Remapear
-; :*:2::234 ; multi
-; ::btw::by the way ; hot string
-
 ; Suspend AutoHotKey
 ;#ScrollLock::Suspend ; Win + scrollLock
 
@@ -32,6 +22,19 @@
 ;   MINIMIZIES ACTIVE WINDOW (instead of "Restore Down" for Win+Down)
 ;=========================================================;
 #+Down::WinMinimize, A ; win+shift+down
+
+;=========================================================;
+;   windows menu bar shortcut from numpad
+;=========================================================;
+#Numpad1::#1 ; Remapear
+#Numpad2::#2 ; Remapear
+#Numpad3::#3 ; Remapear
+#Numpad4::#4 ; Remapear
+#Numpad5::#5 ; Remapear
+#Numpad6::#6 ; Remapear
+#Numpad7::#7 ; Remapear
+#Numpad8::#8 ; Remapear
+#Numpad9::#9 ; Remapear
 
 ; ------------------ NOVO ARQUIVO DE TEXTO ------------------
 #IfWinActive, ahk_class CabinetWClass

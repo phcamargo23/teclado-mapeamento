@@ -1,3 +1,8 @@
+https://gist.github.com/poritsky/4246924 : Press ~ to strikethrough (surround with <del> tags) selected text in MarkdownEditing
+
+apagar tag e todas dentro
+apagar tag e manter as de dentro
+
 comandos iguais com nomes diferentes em cada IDE
 	* aplicar técnica de DM
 	* equiparar um a um
@@ -49,15 +54,6 @@ Sesc mostrar apenas editor
 quick documentation
 
 
-f9 alternar breakpoint de linha
-s f9 f9 alternar breakpoint de linha
-c f9 alternar ignorar breakpoints
-cs remover todos breakpoints
-a f9 - ver breakpoints
-
-restaurar breakpoint
-alternar breakpoint de método
-remover todos os breakpoints do arquivo
 
 # Comandos
 
@@ -73,10 +69,6 @@ navegar bookmark
 
 navegar diferenças git
 go to source (quando ver diff no git)
-
-apagar todos breakpoints
-apagar tag e todas dentro
-apagar tag e manter as de dentro
 
 safe delete //exceção de alt (padraõ: alt+delete, tirei pq nem uso)
 
@@ -231,14 +223,17 @@ s+: parar debug/execuçao
 a+: show execution point (mouse: A + rolar pra cima)
 
 ### F9
-: adicionar breakpoint
-c+: breakpoint temporário
-	cs+: mute breakpoints / desativar todos
-	ca+:
-	csa+:
-s+: toggle enable breakpoint
-	sa+:
+restaurar breakpoint
+alternar breakpoint de método
+
+f9: adicionar breakpoint de linha
+c+: toggle enable breakpoint
+s+: breakpoint temporário
 a+: ver breakpoints
+	cs+: mute breakpoints / desativar todos
+	ca+: remover todos os breakpoints do arquivo
+	csa+: apagar todos breakpoints
+	sa+:
 
 ### F10
 : step over (mouse: A + rolar pra baixo)
