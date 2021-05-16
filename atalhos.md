@@ -67,9 +67,6 @@ navegar move caret to block
 navegar move caret matching brace
 navegar bookmark
 
-navegar diferenças git
-go to source (quando ver diff no git)
-
 safe delete //exceção de alt (padraõ: alt+delete, tirei pq nem uso)
 
 extract method???
@@ -195,7 +192,7 @@ s+: alterna apenas editor
 	sa+: --- alterna janelas
 a+: --- alterna janelas
 
-## FX
+## Fx
 ### F1
 -- ajuda
 
@@ -237,6 +234,28 @@ a+: ver breakpoints
 
 ### F10
 : step over (mouse: A + rolar pra baixo)
+
+c+:
+	cs+:
+	ca+:
+	csa+:
+s+:
+	sa+:
+a+:
+
+### F11
+: tela cheia
+
+c+:
+	cs+:
+	ca+:
+	csa+:
+s+:
+	sa+:
+a+:
+
+### F12
+: 
 
 c+:
 	cs+:
@@ -379,3 +398,8 @@ Go to class Ctrl + N
 Go to file Ctrl + Shift + N
 Go to symbol Ctrl + Alt + Shift + N
 Go to next /previous editor tab Alt + Right/Left
+
+# testando
+abrir git f7
+navegar diferenças git f6 f8
+go to source (quando ver diff no git) : shift f7
