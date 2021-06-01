@@ -2,21 +2,19 @@
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\
 
 # Sublime Text 3
+> Exportar
+```powershell
+$origem = "$env:HOMEPATH\AppData\Roaming\Sublime Text 3\Packages\User\"
+$destino = "Sublime Text 3"
+cp -r $origem $destino
+```
+
+> Importar
+```powershell
 cp "Sublime Text 3\Default (Windows).sublime-keymap" "%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap"
 cp "Sublime Text 3\Preferences.sublime-settings" "%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings"
 cp "Sublime Text 3\Package Control.sublime-settings" "%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings"
-
-## Configurações
-%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
-%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Package Control.sublime-settings
-
-### Extensões removidas
-"Log Highlight",
-"Log4jView",
-"LogView",
-
-## Atalhos
-%HOMEPATH%\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap
+```
 
 # Visual Studio Code
 %HOMEPATH%\AppData\Roaming\Code\User\keybindings.json

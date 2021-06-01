@@ -1,7 +1,7 @@
 ;=========================================================;
 ;   abrir pasta de gravações do OBS com F12
 ;=========================================================;
-folder=C:\Users\PH\Google Drive\Profissional\Evolker\_evolker\_tarefas (vídeos)
+folder=C:\Users\PH\Google Drive\Profissional\Evolker\_evolker\Tarefas (vídeos)
 #^f11:: run %folder%
 
 

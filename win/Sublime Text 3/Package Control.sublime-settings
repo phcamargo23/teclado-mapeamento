@@ -10,9 +10,19 @@
 	"installed_packages":
 	[
 		"AutoHotkey",
+		"Case Conversion",
 		"Clickable URLs",
+		"Column Select",
+		"Increment Selection",
+		"InsertDate",
+		"LogView",
 		"Outline",
 		"Package Control",
 		"PowerShell"
+	],
+	"repositories":
+	[
+		"https://github.com/poucotm/Log-Highlight",
+		"https://github.com/FlashSystems/LogView"
 	]
 }

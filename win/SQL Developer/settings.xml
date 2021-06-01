@@ -144,18 +144,6 @@
                <first class="java.lang.String">**/*.DS_Store</first>
                <second class="java.lang.Boolean">true</second>
             </Item>
-            <Item class="oracle.javatools.util.Pair">
-               <first class="java.lang.String">**/*.local</first>
-               <second class="java.lang.Boolean">true</second>
-            </Item>
-            <Item class="oracle.javatools.util.Pair">
-               <first class="java.lang.String">**/*.localz</first>
-               <second class="java.lang.Boolean">true</second>
-            </Item>
-            <Item class="oracle.javatools.util.Pair">
-               <first class="java.lang.String">**/*.git</first>
-               <second class="java.lang.Boolean">true</second>
-            </Item>
          </list>
       </Value>
    </Item>
@@ -233,6 +221,14 @@
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
                         <Item class="javax.swing.KeyStroke">control P</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">Ide.CUT_CMD_ID</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">shift [127]</Item>
                      </data>
                   </second>
                </Item>
@@ -377,14 +373,6 @@
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
                         <Item class="javax.swing.KeyStroke">shift control L</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">Ide.IDE_SETTINGS_CMD_ID</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">control [44]</Item>
                      </data>
                   </second>
                </Item>
@@ -536,7 +524,7 @@
                   <first class="java.lang.String">ACTIVATE_LEFT_BUTTON_CMD_ID</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
-                        <Item class="javax.swing.KeyStroke">control [33]</Item>
+                        <Item class="javax.swing.KeyStroke">shift F5</Item>
                      </data>
                   </second>
                </Item>
@@ -544,7 +532,7 @@
                   <first class="java.lang.String">ACTIVATE_RIGHT_BUTTON_CMD_ID</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
-                        <Item class="javax.swing.KeyStroke">control [34]</Item>
+                        <Item class="javax.swing.KeyStroke">shift alt F5</Item>
                      </data>
                   </second>
                </Item>
@@ -568,7 +556,7 @@
                   <first class="java.lang.String">Ide.LAST_EDIT_CMD_ID</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
-                        <Item class="javax.swing.KeyStroke">control 0</Item>
+                        <Item class="javax.swing.KeyStroke">shift control [8]</Item>
                      </data>
                   </second>
                </Item>
@@ -813,6 +801,22 @@
                   </second>
                </Item>
                <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">ObjectGalleryCommand</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">control N</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">ojji.GotoNextMember</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">alt [40]</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
                   <first class="java.lang.String">ContextHelp</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
@@ -825,6 +829,14 @@
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
                         <Item class="javax.swing.KeyStroke">F1</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">ojji.CompleteStatement</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">shift control ENTER</Item>
                      </data>
                   </second>
                </Item>
@@ -933,10 +945,18 @@
                   </second>
                </Item>
                <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">ojb.GotoBookmarkCommand0</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">control 0</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
                   <first class="java.lang.String">Worksheet.New</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
-                        <Item class="javax.swing.KeyStroke">control N</Item>
+                        <Item class="javax.swing.KeyStroke">alt F10</Item>
                      </data>
                   </second>
                </Item>
@@ -981,6 +1001,14 @@
                   </second>
                </Item>
                <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">PlSqlController.PinEditor</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">shift control F1</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
                   <first class="java.lang.String">PlSqlController.Debug</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
@@ -1009,14 +1037,6 @@
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
                         <Item class="javax.swing.KeyStroke">control alt V</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">oracle.dbtools.parser.plsql.IdentifierDefinitionLookup.DEF_LOOKUP_ID</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">alt [40]</Item>
                      </data>
                   </second>
                </Item>
@@ -1240,7 +1260,7 @@
                   <first class="java.lang.String">oracle.dbtools.raptor.refactor.RefactorMenu.MLC_ID</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
-                        <Item class="javax.swing.KeyStroke">shift control [59]</Item>
+                        <Item class="javax.swing.KeyStroke">shift alt C</Item>
                      </data>
                   </second>
                </Item>
@@ -1296,7 +1316,7 @@
                   <first class="java.lang.String">oracle.dbtools.format.FormatterMenu.FORMAT_ID</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
-                        <Item class="javax.swing.KeyStroke">shift alt F</Item>
+                        <Item class="javax.swing.KeyStroke">control F7</Item>
                      </data>
                   </second>
                </Item>
@@ -1321,6 +1341,22 @@
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
                         <Item class="javax.swing.KeyStroke">control alt ENTER</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">CodeEditor.Format</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">shift alt F</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">CodeEditor.Format</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">control alt L</Item>
                      </data>
                   </second>
                </Item>
@@ -1376,6 +1412,22 @@
                   <first class="java.lang.String">Ide.QUICK_ACTION_CMD_ID</first>
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
+                        <Item class="javax.swing.KeyStroke">control alt A</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">AbstractDocPopupController.SHOW_DOC_POPUP_CMD</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
+                        <Item class="javax.swing.KeyStroke">control D</Item>
+                     </data>
+                  </second>
+               </Item>
+               <Item class="oracle.javatools.util.Pair">
+                  <first class="java.lang.String">Palette2.viewPalette</first>
+                  <second class="oracle.ide.keyboard.KeyStrokes">
+                     <data>
                         <Item class="javax.swing.KeyStroke">shift control P</Item>
                      </data>
                   </second>
@@ -1409,54 +1461,6 @@
                   <second class="oracle.ide.keyboard.KeyStrokes">
                      <data>
                         <Item class="javax.swing.KeyStroke">control F8</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">oracle.jdeveloper.vcs.properties.PropertiesCommand</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">shift control O</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">oracle.diagram.zoomIn</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">control [107]</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">oracle.diagram.zoomOut</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">control [109]</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">oracle.diagram.editInline</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">F2</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">oracle.diagram.straightenlink</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">control L</Item>
-                     </data>
-                  </second>
-               </Item>
-               <Item class="oracle.javatools.util.Pair">
-                  <first class="java.lang.String">dataminer.ConnectAction</first>
-                  <second class="oracle.ide.keyboard.KeyStrokes">
-                     <data>
-                        <Item class="javax.swing.KeyStroke">control D</Item>
                      </data>
                   </second>
                </Item>
@@ -1494,6 +1498,14 @@
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
                               <Item class="javax.swing.KeyStroke">[38]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">DbaMetrics.SAVE_XML</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">control X</Item>
                            </data>
                         </second>
                      </Item>
@@ -1787,6 +1799,14 @@
                <Value class="oracle.ide.keyboard.KeyStrokeMap">
                   <data>
                      <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">worksheet.replace_previous_from_history</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">control [38]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
                         <first class="java.lang.String">Worksheet.UnsharedWorksheet</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
@@ -1851,10 +1871,26 @@
                         </second>
                      </Item>
                      <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">worksheet.append_next_from_history</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">shift control [40]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
                         <first class="java.lang.String">Worksheet.Rollback</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
                               <Item class="javax.swing.KeyStroke">F12</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">worksheet.replace_next_from_history</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">control [40]</Item>
                            </data>
                         </second>
                      </Item>
@@ -1871,6 +1907,14 @@
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
                               <Item class="javax.swing.KeyStroke">F10</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">worksheet.append_previous_from_history</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">shift control [38]</Item>
                            </data>
                         </second>
                      </Item>
@@ -1933,7 +1977,7 @@
                         <first class="java.lang.String">move-up</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
-                              <Item class="javax.swing.KeyStroke">shift alt [38]</Item>
+                              <Item class="javax.swing.KeyStroke">shift control [38]</Item>
                            </data>
                         </second>
                      </Item>
@@ -1982,6 +2026,14 @@
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
                               <Item class="javax.swing.KeyStroke">alt [93]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">new-line</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">shift ENTER</Item>
                            </data>
                         </second>
                      </Item>
@@ -2061,7 +2113,7 @@
                         <first class="java.lang.String">join-line</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
-                              <Item class="javax.swing.KeyStroke">alt [127]</Item>
+                              <Item class="javax.swing.KeyStroke">control J</Item>
                            </data>
                         </second>
                      </Item>
@@ -2093,7 +2145,7 @@
                         <first class="java.lang.String">delete-line</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
-                              <Item class="javax.swing.KeyStroke">shift [127]</Item>
+                              <Item class="javax.swing.KeyStroke">shift alt D</Item>
                            </data>
                         </second>
                      </Item>
@@ -2125,7 +2177,7 @@
                         <first class="java.lang.String">duplicate-selection</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
-                              <Item class="javax.swing.KeyStroke">shift ENTER</Item>
+                              <Item class="javax.swing.KeyStroke">shift control D</Item>
                            </data>
                         </second>
                      </Item>
@@ -2134,6 +2186,14 @@
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
                               <Item class="javax.swing.KeyStroke">[35]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">scroll-line-up</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">control [38]</Item>
                            </data>
                         </second>
                      </Item>
@@ -2166,6 +2226,14 @@
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
                               <Item class="javax.swing.KeyStroke">[40]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">scroll-line-down</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">control [40]</Item>
                            </data>
                         </second>
                      </Item>
@@ -2221,7 +2289,15 @@
                         <first class="java.lang.String">toggle-java-comments</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
-                              <Item class="javax.swing.KeyStroke">control [59]</Item>
+                              <Item class="javax.swing.KeyStroke">shift control [47]</Item>
+                           </data>
+                        </second>
+                     </Item>
+                     <Item class="oracle.javatools.util.Pair">
+                        <first class="java.lang.String">toggle-java-comments</first>
+                        <second class="oracle.ide.keyboard.KeyStrokes">
+                           <data>
+                              <Item class="javax.swing.KeyStroke">control [47]</Item>
                            </data>
                         </second>
                      </Item>
@@ -2293,7 +2369,7 @@
                         <first class="java.lang.String">move-down</first>
                         <second class="oracle.ide.keyboard.KeyStrokes">
                            <data>
-                              <Item class="javax.swing.KeyStroke">shift alt [40]</Item>
+                              <Item class="javax.swing.KeyStroke">shift control [40]</Item>
                            </data>
                         </second>
                      </Item>
@@ -2330,34 +2406,39 @@
                </Value>
             </Item>
          </localKeyMaps>
-         <modifiedPreset>true</modifiedPreset>
+         <modifiedPreset>false</modifiedPreset>
          <presetName>Default</presetName>
          <registeredContexts>
             <Item class="java.lang.String">oracle/ideimpl/editor/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/ceditor/keymap/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/dbtools/raptor/plsql/accelerators.xml</Item>
             <Item class="java.lang.String">XmlEditingFramework</Item>
+            <Item class="java.lang.String">oracle/dbtools/raptor/plsql/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/config/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ideimpl/extension/preference/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/jdevimpl/help/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/jdevimpl/help/localaccelerators.xml</Item>
+            <Item class="java.lang.String">oracle/jdevimpl/help/startpageaccelerators.xml</Item>
+            <Item class="java.lang.String">oracle/ideimpl/inspector/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/ceditor/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/ideimpl/palette2/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/jdevimpl/audit/core/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/ide/status/editor/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/explorer/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/gallery/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ideimpl/importexport/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdeveloper/cmd/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdeveloper/model/projectaccelerators.xml</Item>
+            <Item class="java.lang.String">oracle/jdevimpl/style/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/ideimpl/ceditor/tint/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/insight/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/ceditor/find/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdeveloper/history/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdevimpl/compare/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/help/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/help/localaccelerators.xml</Item>
-            <Item class="java.lang.String">oracle/ideimpl/inspector/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/jdevimpl/vcs/git/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdeveloper/compiler/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdevimpl/runner/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdevimpl/runner/debug/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdevimpl/runner/run/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/audit/core/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/ide/status/editor/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/raptor/refactor/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/format/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/parser/plsql/accelerators.xml</Item>
@@ -2368,32 +2449,19 @@
             <Item class="java.lang.String">oracle/dbtools/worksheet/extension/accelerators2.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/worksheet/editor/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/worksheet/commands/sqltuningadvisor/accelerators.xml</Item>
-            <Item class="java.lang.String">/oracle/dbtools/unit_test/editor/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/vcs/git/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/ideimpl/palette2/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/diagram/res/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/dbtools/raptor/standalone/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/jdevimpl/vcs/svn/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/ideimpl/ceditor/tint/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/help/startpageaccelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/style/accelerators.xml</Item>
-            <Item class="java.lang.String">/oracle/dbtools/raptor/timesten/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ideimpl/searchbar/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/ide/ceditor/macrorecorder/accelerators.xml</Item>
+            <Item class="java.lang.String">/oracle/dbtools/unit_test/editor/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/diagram/res/accelerators.xml</Item>
+            <Item class="java.lang.String">/oracle/dbtools/raptor/timesten/accelerators.xml</Item>
             <Item class="java.lang.String">/oracle/dbtools/raptor/report/navigatorV2/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/ide/thumbnail/res/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/raptor/dba/navigator/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/ide/thumbnail/res/accelerators.xml</Item>
             <Item class="java.lang.String">ToolManager</Item>
-            <Item class="java.lang.String">oracle/dmt/dataminer/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/ideimpl/patch/accelerators.xml</Item>
-            <Item class="java.lang.String">Versioning-Properties</Item>
-            <Item class="java.lang.String">oracle/jdevimpl/vcs/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/jdeveloper/merge/accelerators.xml</Item>
-            <Item class="java.lang.String">Subversion</Item>
-            <Item class="java.lang.String">oracle/ideimpl/vcscore/nav/accelerators.xml</Item>
-            <Item class="java.lang.String">oracle/dbtools/raptor/standalone/accelerators.xml</Item>
-            <Item class="java.lang.String">Git</Item>
-            <Item class="java.lang.String">oracle/dbtools/worksheet/commands/dbmsoutput/accelerators.xml</Item>
             <Item class="java.lang.String">oracle/dbtools/worksheet/accelerators.xml</Item>
+            <Item class="java.lang.String">oracle/dbtools/worksheet/commands/dbmsoutput/accelerators.xml</Item>
          </registeredContexts>
       </Value>
    </Item>
