@@ -1,3 +1,4 @@
+.adoc, Applications\sublime_text.exe
 .config, Applications\sublime_text.exe
 .conf, Applications\sublime_text.exe
 .css, Applications\sublime_text.exe
@@ -20,14 +21,12 @@
 .sublime-settings, Applications\sublime_text.exe
 .txt, Applications\sublime_text.exe
 .xml, Applications\sublime_text.exe
-
+.ext, Applications\sublime_text.exe
 .ps1, Applications\powershell.exe
-
+.rar, Applications\7zFM.exe
 .tgz, Applications\7zFM.exe
 .tar, Applications\7zFM.exe
 .war, Applications\7zFM.exe
-
 .mp4, VLC.mp4
-
 .htm, FirefoxHTML-CA9422711AE1A81C
 .html, FirefoxHTML-CA9422711AE1A81C

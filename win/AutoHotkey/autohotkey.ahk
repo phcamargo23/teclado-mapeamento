@@ -1,8 +1,10 @@
+﻿; Save the script as UTF-8 with BOM.
+
 ;=========================================================;
 ;   abrir pasta de gravações do OBS com F12
 ;=========================================================;
-folder=C:\Users\PH\Google Drive\Profissional\Evolker\_evolker\Tarefas (vídeos)
-#^f11:: run %folder%
+#^f11:: run C:\Users\PH\Google Drive\Profissional\Evolker\_público\Tarefas (vídeos)
+#^.:: run C:\Users\PH\dev
 
 
 ; ------------------ TRAVESSÃO -----------------
